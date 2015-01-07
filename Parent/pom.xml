@@ -7,7 +7,6 @@
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>../ModuleA</module>
-    <module>../ModuleB</module>
     <module>../ModuleC</module>
   </modules>
   <packaging>pom</packaging>
