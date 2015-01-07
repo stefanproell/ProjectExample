@@ -35,6 +35,7 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Parent/pom.xml" />
+        <option value="$PROJECT_DIR$/../Submodule/pom.xml" />
       </list>
     </option>
   </component>

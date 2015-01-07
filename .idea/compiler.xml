@@ -25,8 +25,8 @@
         <module name="ModuleA" />
         <module name="ModuleB" />
         <module name="ModuleC" />
-        <module name="PersistentIdentification" />
         <module name="ProjectExample" />
+        <module name="Submodule" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
